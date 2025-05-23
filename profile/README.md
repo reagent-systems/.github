@@ -45,7 +45,7 @@ Expect a collection of drop-in tools for common tasks like web search, file acce
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python
-- **Frameworks:** OpenAI, Anthropic APIs, FastAPI (planned)
+- **Frameworks:** OpenAI, Anthropic Claude (planned)
 - **Tooling:** GitHub Actions, Docker, Modular CLI utilities
 
 ---
@@ -74,5 +74,6 @@ Open an issue on GitHub or reach us directly at: [issues](https://github.com/rea
 All Reagent Systems projects are open source under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
+> "Build the agent you want to debug." – Reagent Systems
 
 > “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
