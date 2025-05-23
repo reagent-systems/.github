@@ -16,28 +16,62 @@ At Reagent Systems, we believe that AI agents don't need to be complex to be pow
 
 ---
 
-## 🔧 Core Projects
+## 🧩 Core Projects
 
 ### [`Simple-Agent-Core`](https://github.com/reagent-systems/Simple-Agent-Core)
 
-A lightweight starting point for building AI agents with a plug-and-play core loop. This project prioritizes clarity, functional design, and real-world applicability over bloated abstractions.
+A lightweight, minimalist framework for building AI agents with a clean event loop and pluggable command system.
+
+**Features:**
+
+- 🧠 Minimalist Design – Only essential components, no bloat
+- 🧩 Modular Command System – Each command lives in its own folder
+- 🔧 Function-Based Operations – Actions are invoked through clear function calls
 
 ---
 
-## 🧩 Why Reagent?
+### [`Simple-Agent-Tools`](https://github.com/reagent-systems/Simple-Agent-Tools) *(In Progress)*
 
-- 🪶 Minimal overhead – perfect for embedding or experimenting
-- 🔍 Transparent design – every line is readable and purposeful
-- 📦 Modular structure – drop in or swap out components easily
-- 🌐 Open philosophy – contributions and forks welcome
+We’re currently in the process of splitting out tools and commands from the core into a dedicated repo. This will:
+
+- Keep the core repo lean and stable
+- Allow tools to be loaded dynamically via API
+- Make it easier to extend agents with custom capabilities
+
+Expect a collection of drop-in tools for common tasks like web search, file access, data parsing, API interactions, and more.
 
 ---
 
-## 🤝 Join Us
+## 🛠️ Technologies & Tools
 
-Whether you're a developer, researcher, or curious hacker, we welcome collaboration and experimentation. Got ideas or feedback? Open an issue or pull request!
+- **Languages:** Python
+- **Frameworks:** OpenAI, Anthropic APIs, FastAPI (planned)
+- **Tooling:** GitHub Actions, Docker, Modular CLI utilities
 
-📬 Contact us: [GitHub Issues](https://github.com/reagent-systems/Simple-Agent-Core/issues)
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Whether it's a new tool, bug fix, or performance tweak, your input helps us push the boundaries of what minimalist agents can do.
+
+1. Fork the repo
+2. Create a feature branch
+3. Commit with clarity
+4. Open a pull request
+
+Each repo contains its own `CONTRIBUTING.md` for more details.
+
+---
+
+## 📬 Contact & Support
+
+Open an issue on GitHub or reach us directly at: [issues](https://github.com/reagent-systems/Simple-Agent-Core/issues)
+
+---
+
+## 📄 License
+
+All Reagent Systems projects are open source under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
