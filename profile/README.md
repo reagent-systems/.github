@@ -1,35 +1,44 @@
-# AI Agent
+# 🧠 Reagent Systems
 
-## Overview
+**Building Minimalist AI Agents for Maximum Impact**
 
-This AI Agent is designed to automate tasks, provide insights, and manage various operations autonomously. Operating in an AUTO-CONTINUE mode, it strives to complete as many tasks as possible without human intervention, utilizing its extensive capabilities and available resources efficiently.
+Welcome to **Reagent Systems**, where we focus on crafting lightweight, modular AI agents that are easy to understand, extend, and deploy. Our philosophy centers on simplicity and clarity, ensuring that AI agents remain accessible and effective.
 
-## Key Features
+---
 
-- **Automation**: Executes tasks based on predefined steps, reducing the need for manual input.
-- **Text and Sentiment Analysis**: Extracts keywords, generates summaries, and assesses sentiment from text data.
-- **File and Directory Management**: Reads, writes, edits, and organizes file systems autonomously.
-- **GitHub Integration**: Interacts with GitHub repositories by cloning, reading, updating, and managing pull requests and issues.
-- **Web Interaction**: Scrapes web pages, performs searches, and fetches JSON data from APIs.
-- **Parallel Execution**: Executes multiple tasks in parallel when possible, optimizing task completion speed.
+## 🚀 Our Mission
 
-## Functionality
+At Reagent Systems, we believe that AI agents don't need to be complex to be powerful. By emphasizing a small set of core operations and utilizing function-based interactions, we aim to:
 
-1. **Task Execution**: Capable of running up to 15 steps per task session, with 10 additional auto-continue steps if needed.
-2. **Adaptive Operations**: Utilizes various tools and functions to adaptively manage tasks from text analysis to GitHub repository management.
-3. **Decision Making**: Makes independent decisions to proceed with task executions without requiring further input.
+- **Simplify** the development and deployment of AI agents.
+- **Modularize** components for easy customization and scalability.
+- **Demystify** agent behavior by maintaining transparent and traceable logic.
 
-## Usage
+---
 
-This agent can be utilized in various domains where automation and analysis are needed, such as data analysis, software development, and project management.
+## 🔧 Core Projects
 
-## Technologies Used
+### [`Simple-Agent-Core`](https://github.com/reagent-systems/Simple-Agent-Core)
 
-- **Natural Language Processing**
-- **Machine Learning**
-- **Cloud-Based APIs**
+A lightweight starting point for building AI agents with a plug-and-play core loop. This project prioritizes clarity, functional design, and real-world applicability over bloated abstractions.
 
-## Limitations
+---
 
-- The agent is bound by a step execution limit per session.
-- Requires internet access to perform web and GitHub-related tasks.
+## 🧩 Why Reagent?
+
+- 🪶 Minimal overhead – perfect for embedding or experimenting
+- 🔍 Transparent design – every line is readable and purposeful
+- 📦 Modular structure – drop in or swap out components easily
+- 🌐 Open philosophy – contributions and forks welcome
+
+---
+
+## 🤝 Join Us
+
+Whether you're a developer, researcher, or curious hacker, we welcome collaboration and experimentation. Got ideas or feedback? Open an issue or pull request!
+
+📬 Contact us: [GitHub Issues](https://github.com/reagent-systems/Simple-Agent-Core/issues)
+
+---
+
+> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
